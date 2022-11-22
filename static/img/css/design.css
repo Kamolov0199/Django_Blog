@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: rgb(159, 218, 50);
+}
+
+h3{
+    color: rgb(255, 10, 10);
+}
+
+.content{
+    color: rgb(195, 0, 255);
+}
+.price{
+    color: rgb(2, 85, 53);
+
+}
